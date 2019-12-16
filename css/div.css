@@ -1,0 +1,31 @@
+body {background: #e4c8ec}
+#table {
+    display: table;
+   	border-collapse: collapse;
+	width: 80%;
+	border: 1px solid black;
+	margin: auto;
+}
+.img {vertical-align: middle;}
+.tr {
+    display: table-row;
+   }
+.td {
+    display: table-cell;
+    padding: 10px;
+    width: 15%;
+    border: 1px solid black;
+	text-align: center;
+		    		}
+.td2 {
+    display: table-cell;
+    padding: 10px;
+    width: 40%;
+    border: 1px solid black;
+   		}
+.td3 {
+    display: table-cell;
+    padding: 10px;
+    width: 25%;
+    border: 1px solid black;
+    		}
